@@ -1,4 +1,4 @@
-Laser-Materials-Masterclass/
+Laser-Materials-Masterclass/ 
 │
 ├── README.md
 ├── COURSE_OUTLINE.md
