@@ -1,3 +1,4 @@
+```text
 Laser-Materials-Masterclass/ 
 │
 ├── README.md
@@ -22,3 +23,4 @@ Laser-Materials-Masterclass/
 ├── diagrams/
 │
 └── references/
+```
